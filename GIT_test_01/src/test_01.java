@@ -9,6 +9,7 @@ public class test_01 {
 		
 
 			System.out.println("hejsan!");
+			//Nejnejnej
 
 	
 	}
